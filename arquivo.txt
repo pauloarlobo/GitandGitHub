@@ -1,1 +1,1 @@
-Olá mundo!! alterado -conflito
+Olá mundo!! resolvendo conflito
