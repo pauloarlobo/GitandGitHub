@@ -1,4 +1,3 @@
-Olá mundo!! alterado
+Olá mundo!! resolvendo conflito
 
-
-ola novamente
+alterando pela pasta2 branch estudobranch
